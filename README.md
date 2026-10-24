@@ -16,8 +16,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently learning about **deep learning**<br>
-✔ Ask from me anything you want<br>
+✔ I’m currently learning ...<br>
+✔ ...<br>
 <br><br>
  
 
