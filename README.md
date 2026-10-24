@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manuel</h1>
-<h2 align="center">Electronic Engineer | Deep Learning | Python | Matlab | C# </h2>
+<h1 align="center">Hi 👋, Soy Manuel</h1>
+<h2 align="center">Ingeniero electrónico | Estudiante de master en Automatizacion Electronica y Control Insdustrial </h2>
 
 
 
