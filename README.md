@@ -7,9 +7,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Manuel Narvaez an undergraduate from <a href="https://uis.edu.co/"> <b>Industrial University of Santander</b>, Bucaramanga, Santander</a>. <br>
-    <b>a passionate about deep learning</b> and a <b>Electronic Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b>. I am excited by the opportunity to apply my skills and knowledge in software development projects and committed to continuous improvement.
+    
   </em> 
   <br>
   
